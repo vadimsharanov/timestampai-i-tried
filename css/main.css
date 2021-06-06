@@ -1,0 +1,88 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 800px;
+}
+
+main {
+    width: 800px;
+}
+
+.sign {
+    text-align: center;
+    display: inline-block;
+    width: 110px;
+    margin-left:8px;
+    height:45px;
+    font-size: 16px;
+    border: solid #4A58B3 1px;
+    color:blue;
+    line-height: 47px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.sign2 {
+    text-align: center;
+    display: inline-block;
+    width: 110px;
+    margin-left:8px;
+    height:45px;
+    font-size: 16px;
+    border: solid #4A58B3 1px;
+    color:blue;
+    line-height: 47px;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+.pirma-paskaita {
+    text-align: center;
+    display: inline-block;
+    width: 110px;
+    margin-left:8px;
+    height:45px;
+    font-size: 16px;
+    border: solid #4A58B3 1px;
+    color:blue;
+    line-height: 47px;
+    border-radius: 3px;
+    text-decoration: none;
+    float: left;
+}
+
+.antra-paskaita {
+    text-align: center;
+    width: 110px;
+    margin-left:8px;
+    float: right;
+    height:45px;
+    font-size: 16px;
+    border: solid #4A58B3 1px;
+    color:blue;
+    line-height: 47px;
+    border-radius: 3px;
+    text-decoration: none;
+
+}
+
+.pirma {
+    width: 40%;
+    display: inline-block;
+    float: left;
+}
+
+.antra {
+    width: 40%;
+    float: right;
+}
+
+p {
+    display: inline-block;
+    width: 100%;
+}
